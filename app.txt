@@ -1,0 +1,1 @@
+nativefier --full-screen --name FiveGames+ https://fivegamesplus.000webhostapp.com/ --icon <C:\Users\Nahuel\Documents\Proyectos\FiveGames+\sources\logo-fav2.ico>

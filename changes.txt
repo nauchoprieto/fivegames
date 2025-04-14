@@ -1,0 +1,6 @@
+Cambiar el Title
+Cambiar el H1
+Cambiar el src del Iframe
+Cambiar la etiqueta Meta Description: (Play (game name) for free and without ads at FiveGames Plus.)
+
+Cambiar enlace en Index y portada

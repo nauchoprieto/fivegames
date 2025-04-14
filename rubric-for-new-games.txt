@@ -1,0 +1,4 @@
+- The game should not require a good internet connection.
+- The game must be responsive.
+- The game should not be too complex.
+- The game must not have graphics that saturate lower-middle-range devices.
